@@ -24,8 +24,6 @@ JAVA | C# | .NET | Python | Spring Boot | Angular | MySQL | MSSQL | HTML | CSS |
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ruveydabilik)](https://github.com/ryo-ma/github-profile-trophy)
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=ruveydabilik)  
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ruveydabilik&theme=light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---

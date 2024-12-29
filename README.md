@@ -1,6 +1,6 @@
 <p align="right">
   <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=ruveydabilik&icon=0&color=2" alt="Visitor Count">
+    <img src="https://visitcount.itsvg.in/api?id=ruveydabilik&icon=0&color=2" alt="">
   </a>
 </p>
 <h2>Hi there 👋 I'm Ayşe Rüveyda Bilik</h2>
